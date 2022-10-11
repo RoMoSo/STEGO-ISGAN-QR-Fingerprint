@@ -62,4 +62,4 @@ The results of the implementation of the ISGAN Model in QR codes are presented b
 
 The results of the implementation of the ISGAN Model in fingerprints are presented below. The following Figure shows the covered, stego, secret and recovered image.
 
-![Fingerprints](finger.jpg)
+![Finger](finger.jpg)
