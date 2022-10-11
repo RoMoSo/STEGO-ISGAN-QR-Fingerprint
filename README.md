@@ -56,8 +56,4 @@ The training of the ISGAN network for the application of fingerprints was carrie
 
 ## Results
 
-The results of the implementation of the ISGAN Model in QR codes are presented below. The following Figure shows the covered, stego, secret and recovered image.
-
-![QR](qr.jpg)
-
-![Finger](finger.jpg)
+The results of the implementation of the ISGAN Model in QR codes and Fingerprints, can be seen in the image and imagef folders
